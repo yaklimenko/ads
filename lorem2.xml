@@ -16,16 +16,16 @@
 						<Duration>00:00:15</Duration>
 						<TrackingEvents>
 							<Tracking event="creativeView"><![CDATA[
-								 https://ev.adriver.ru/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=1&tail256= 
+								 https://ev.adriver.ru/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=1&tail256=[CONTENTPLAYHEAD]
 							]]></Tracking>
 							<Tracking event="start"><![CDATA[
-								 https://ev.adriver.ru/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=2&tail256= 
+								 https://ev.adriver.ru/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=2&tail256=[CONTENTPLAYHEAD]
 							]]></Tracking>
 							<Tracking event="midpoint"><![CDATA[
-								 https://ev.adriver.ru/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=3&tail256= 
+								 https://ev.adriver.ru/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=3&tail256=[CACHEBUSTING]
 							]]></Tracking>
 							<Tracking event="firstQuartile"><![CDATA[
-								 https://ev.adriver.ru/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=4&tail256= 
+								 https://ev.adriver.ru/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=4&tail256=[ASSETURI]
 							]]></Tracking>
 							<Tracking event="thirdQuartile"><![CDATA[
 								 https://ev.adriver.ru/cgi-bin/event.cgi?xpid=Di6bKY7ST_nps5fx0EU7G35u1e3QxE-fhCXeVQe65EZGEmylHOLvyg2kAXXsosptf810F6fDj7DlgyXonpR_gYgU&sid=1&sliceid=0&bn=9150911&pz=0&sz=&ad=743903&bid=9150911&bt=61&tuid=-1&type=5&tail256= 
@@ -77,13 +77,13 @@
 						</VideoClicks>
 						<MediaFiles>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="256" width="0" height="0"><![CDATA[
-								 https://servers2.adriver.ru/mf/0009150/0009150911/0/ricolorcat.mp4 
+								 https://servers2.adriver.ru/mf/0009150/0009150911/0/tricolorcat.mp4 
 							]]></MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="256" width="0" height="0"><![CDATA[
-								 https://servers2.adriver.ru/mf/0009150/0009150911/0/ricolorcat.mp4 
+								 https://servers2.adriver.ru/mf/0009150/0009150911/0/tricolorcat.mp4 
 							]]></MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="256" width="0" height="0"><![CDATA[
-								 https://servers2.adriver.ru/mf/0009150/0009150911/0/ricolorcat.mp4 
+								 https://servers2.adriver.ru/mf/0009150/0009150911/0/tricolorcat.mp4 
 							]]></MediaFile>
 						</MediaFiles>
 					</Linear>
