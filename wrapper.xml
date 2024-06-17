@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+    <Ad id="1795570-4929888">
+        <Wrapper>
+            <AdSystem>ADFOX</AdSystem>
+            <VASTAdTagURI>
+                <![CDATA[https://raw.githubusercontent.com/freakless22/ads/main/after_ads.xml]]>
+            </VASTAdTagURI>
+            <Error>
+                <![CDATA[http://192.168.88.100:8000/246091/event?hash=54e023ee2a9ff568&pm=u&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=jvczkoz&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+            </Error>
+            <Impression>
+                <![CDATA[https://raw.githubusercontent.com/freakless22/ads/main/after_ads.xml]]>
+            </Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <TrackingEvents>
+                            <Tracking event="creativeView">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=6cb9b1766d4e2c7f&pm=c&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=inzosil&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="start">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=4062221da858995e&pm=b&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=nblsjwa&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="midpoint">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=3fbfe9a824d59dcd&pm=f&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=mgamwi&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=966d9d928ac7d40e&pm=e&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=izwsaep&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=ebe00ab0f616e79b&pm=g&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=lviufox&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="complete">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=29bb1a7ad1f8422d&pm=h&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=rtcpsr&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="mute">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=75995f90b915fb81&pm=i&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=bpnldj&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="unmute">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=39375d81f9b1ce0d&pm=j&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=jzrbhpm&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="pause">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=646651be16cfac6f&pm=k&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=htczmdc&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="rewind">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=1224c49e35c8d282&pm=l&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=exywqwh&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="resume">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=70120e2c80584db4&pm=m&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=bsuldct&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="expand">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=acd02ef9a54665aa&pm=o&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=cqeswko&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="collapse">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=5042a6ebd30240d5&pm=p&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=jkauuxz&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="acceptInvitation">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=a74b250fd4ea8346&pm=q&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=gzhqbtv&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                            <Tracking event="close">
+                                <![CDATA[https://ads.adfox.ru/246091/event?hash=33ed3006714567f7&pm=r&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=gnavdpx&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickTracking>
+                                <![CDATA[http://192.168.88.100:8000/after_ads.xml]]>
+                            </ClickTracking>
+                        </VideoClicks>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </Wrapper>
+    </Ad>
+</VAST>
